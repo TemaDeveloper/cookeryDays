@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CookeryDays</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ingredients_info_activity">Ingredients</string>
+    <string name="instructions_info_activity">Instructions</string>
+    <string name="glass_info_activity">Pour into</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="do_not_rec_info_activity">Do Not Recommend</string>
+    <string name="Save_info_activity">Save</string>
+    <string name="profile_main_menu">Profile</string>
+    <string name="food_main_menu">Food</string>
+    <string name="cocktails_main_menu">Cocktails</string>
+    <string name="add_main_menu">Add</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="alcoholic_tab">Alcoholic</string>
+    <string name="nonalcoholic_tab">Nonalcoholic</string>
+    <string name="video_title">Video</string>
+    <string name="saved_r">Saved Recipes</string>
+    <string name="my_r">My Recipes</string>
+    <string name="searching_main_menu">Search</string>
+    <string name="not_found_menu">Not\nFound</string>
+    <string name="category_info">Category: </string>
+    <string name="sign_up_form">Sign Up</string>
+    <string name="login_forget_pass">Forget Password?</string>
+    <string name="login_or">or</string>
+
+    <string-array name="recipe_quotes">
+
+        <item>Know Your Limits: Understand your own tolerance level and drink responsibly. It\'s important to know when to stop and never drink to excess.</item>
+        <item>Stay Hydrated: Alternate between alcoholic drinks and water to stay hydrated. Alcohol can dehydrate you, so it\'s crucial to maintain a good balance.</item>
+        <item>Choose Quality Ingredients: Opt for high-quality spirits and fresh ingredients when making or ordering cocktails. Quality ingredients can enhance the taste and reduce the chances of a hangover.</item>
+        <item>Pace Yourself: Enjoy your drink slowly. Sip and savor the flavors rather than rushing through it. This also gives your body time to process the alcohol.</item>
+        <item>Eat Before Drinking: Having a meal before drinking can slow down the absorption of alcohol into your bloodstream, reducing its effects.</item>
+        <item>Be Mindful of Mixing: Avoid mixing different types of alcohol in one sitting. Stick to one type of liquor or cocktail to prevent an upset stomach or undesirable effects.</item>
+        <item>Know What You\'re Drinking: Familiarize yourself with the ingredients and alcohol content of the cocktails you\'re consuming. Some cocktails may be stronger than others.</item>
+        <item>Designated Driver or Alternative Transportation: If you\'re planning to drink, ensure you have a designated driver or arrange for alternative transportation like a taxi or rideshare service to get home safely.</item>
+        <item>Watch for Allergies and Sensitivities: Be mindful of any allergies or sensitivities you may have to certain ingredients in cocktails. Always ask the bartender about ingredients if you\'re unsure.</item>
+        <item>Respect Others\' Choices: Not everyone drinks alcohol. Respect others\' choices if they choose not to consume alcoholic beverages and never pressure anyone to drink.</item>
+        <item>Avoid Drinking on an Empty Stomach: Drinking on an empty stomach can lead to quicker intoxication. Have a snack or meal before drinking to help slow the absorption of alcohol.</item>
+        <item>Listen to Your Body: Pay attention to how you\'re feeling. If you start to feel unwell or too intoxicated, stop drinking and seek assistance if needed.</item>
+
+    </string-array>
+
+</resources>
